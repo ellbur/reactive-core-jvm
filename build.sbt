@@ -1,7 +1,7 @@
 
 organization := "com.github.ellbur"
 
-name := "reactive-core-js"
+name := "reactive-core-js-2"
 
 version := "0.3.1"
 
