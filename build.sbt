@@ -3,7 +3,7 @@ organization := "com.github.ellbur"
 
 name := "reactive-core-js"
 
-version := "0.3.0"
+version := "0.3.1"
 
 description := "An FRP framework"
 
