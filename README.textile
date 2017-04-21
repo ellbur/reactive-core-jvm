@@ -1,5 +1,5 @@
 
-This is a fork of "Nafg's excellent reactive-core library":https://github.com/nafg/reactive for building with ScalaJS.
+This is a fork of "Nafg's excellent reactive-core library":https://github.com/nafg/reactive for easy building through JitPack.
 
 h3. Introduction
 
